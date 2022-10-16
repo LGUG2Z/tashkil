@@ -1,0 +1,19 @@
+[package]
+name = "tashkil"
+version = "0.1.0"
+authors = ["Jade Iqbal <jadeiqbal@fastmail.com>"]
+edition = "2021"
+
+documentation = "https://docs.rs/tashkil"
+repository = "https://github.com/LGUG2Z/tashkil"
+
+description = "A lightweight library for removing Arabic diacritics"
+keywords = ["arabic", "dari", "pashto", "persian", "urdu", "kurdish", "uyghur", "diacritics", "diacritics-removal", "language"]
+categories = ["text-processing"]
+
+license = "MIT"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
