@@ -8,7 +8,7 @@ documentation = "https://docs.rs/tashkil"
 repository = "https://github.com/LGUG2Z/tashkil"
 
 description = "A lightweight library for removing Arabic diacritics"
-keywords = ["arabic", "dari", "pashto", "persian", "urdu", "kurdish", "uyghur", "diacritics", "diacritics-removal", "language"]
+keywords = ["arabic", "dari", "pashto", "diacritics", "language"]
 categories = ["text-processing"]
 
 license = "MIT"
